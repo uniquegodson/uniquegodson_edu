@@ -24,7 +24,7 @@
 
 <section>
     <h2>About Me</h2>
-    <p>Dr. Godson Ilevbare is an academic researcher with a strong background in maritime technology, information science, environmental standards, and data science. His work focuses on enhancing academic researces' research capabilities.</p>
+    <p>Dr. Godson Ilevbare is an academic researcher with a strong background in maritime technology, data & information science, and environmental standards. His work focuses on enhancing academic researces' research capabilities.</p>
     
     <h2>Academic Qualifications</h2>
     <ul>
