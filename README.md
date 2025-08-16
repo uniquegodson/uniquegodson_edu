@@ -19,12 +19,12 @@
 
 <header>
     <h1>Dr. Godson Ehimiyein Ilevbare</h1>
-    <p>Researcher | Academic | Environmental Expert | Data & Information Science</p>
+    <p>Researcher | Academic |  Data & Information Science|Environmental Expert</p>
 </header>
 
 <section>
     <h2>About Me</h2>
-    <p>Dr. Godson Ilevbare is an academic researcher with a strong background in maritime technology, data & information science, and environmental standards. His work focuses on enhancing academic research capabilities.</p>
+    <p>Dr. Godson Ilevbare is an accomplished academic researcher with expertise spanning maritime technology, data and information science, and environmental standards. His work is dedicated to advancing research and innovation, with a strong focus on building sustainable solutions and strengthening global academic and industry capabilities.</p>
     
     <h2>Academic Qualifications</h2>
     <ul>
